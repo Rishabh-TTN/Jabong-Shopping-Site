@@ -1,0 +1,60 @@
+/*.navigation{*/
+/*text-align: center;*/
+/*}*/
+.mainHeading{
+    /*font: bold;*/
+    text-align: center;
+}
+.paragraph{
+    background-color: orange;
+    text-align: center;
+    height: 40px;
+    padding-top: 8px;
+    font-size: 20px;
+    font-family: "Droid Serif";
+}
+.carousel .item img {
+    margin: 0 auto;
+
+}
+.carousel-control left{
+    margin-left: 176px;
+}
+.carousel-control right{
+    margin-right: 176px;
+}
+.navbar{
+    margin-bottom: 0px;
+}
+.lists{
+    justify-content: center;
+    display: flex;
+    margin-top: 40px;
+
+}
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.light{
+    text-align: center;
+}
+.items{
+    justify-content: center;
+    display: flex;
+    border-radius: 35px;
+    flex-wrap: wrap;
+
+}
+.image{
+    text-align: center;
+    width: 100%;
+}
+.carousel-control.left {
+    margin-left: 175px;
+}
+.carousel-control.right{
+    margin-right: 175px;
+}
